@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LimePOS.Domain", "LimePOS.Domain\LimePOS.Domain.csproj", "{1290CCE4-AFEA-494D-B4D4-3F8B8169369D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LimePOS.Application", "LimePOS.Application\LimePOS.Application.csproj", "{0424CE5F-3C02-43B8-B809-72A40E01A8C8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LimePOS.Infrastructure", "LimePOS.Infrastructure\LimePOS.Infrastructure.csproj", "{728A9F85-3243-47DD-8C33-127DF3B9CE75}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LimePOS.API", "LimePOS.API\LimePOS.API.csproj", "{265EE41A-1938-4083-A444-384A6BA236E8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1290CCE4-AFEA-494D-B4D4-3F8B8169369D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1290CCE4-AFEA-494D-B4D4-3F8B8169369D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1290CCE4-AFEA-494D-B4D4-3F8B8169369D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1290CCE4-AFEA-494D-B4D4-3F8B8169369D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0424CE5F-3C02-43B8-B809-72A40E01A8C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0424CE5F-3C02-43B8-B809-72A40E01A8C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0424CE5F-3C02-43B8-B809-72A40E01A8C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0424CE5F-3C02-43B8-B809-72A40E01A8C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{728A9F85-3243-47DD-8C33-127DF3B9CE75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{728A9F85-3243-47DD-8C33-127DF3B9CE75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{728A9F85-3243-47DD-8C33-127DF3B9CE75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{728A9F85-3243-47DD-8C33-127DF3B9CE75}.Release|Any CPU.Build.0 = Release|Any CPU
+		{265EE41A-1938-4083-A444-384A6BA236E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{265EE41A-1938-4083-A444-384A6BA236E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{265EE41A-1938-4083-A444-384A6BA236E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{265EE41A-1938-4083-A444-384A6BA236E8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {377EAD45-A32B-4A69-90B1-6566D3981945}
+	EndGlobalSection
+EndGlobal
